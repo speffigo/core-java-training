@@ -1,0 +1,4 @@
+Covered  threading and multithreading :
+        -> Thread Scheduler
+        -> Starvation
+        ->methods of Thread Class
