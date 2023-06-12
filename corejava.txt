@@ -1,0 +1,7 @@
+Covered  threading and multithreading :
+        -> Thread Scheduler
+        -> Starvation
+        ->methods of Thread Class
+        -> Watched videoes and made notes of few concepts where I got stuck
+        -> went through Exception Handling concept in detail
+        -> covered few DSA concepts:- ArrayList,HashMap.
