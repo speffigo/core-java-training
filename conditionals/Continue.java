@@ -3,18 +3,13 @@ package conditionals;
 public class Continue {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		int i=1;
-		for(i=1;i<=10;i++) {
-			if(i==4) {
+		int i;
+		for (i = 1; i <= 10; i++) {
+			if (i == 4) {
 				continue;
+			}
+			System.out.print(i + " ");
 		}
-			System.out.print(i+" ");
 
 	}
-		
-		
-		
-	}}
-
-
+}
